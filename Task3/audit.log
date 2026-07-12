@@ -1,0 +1,8 @@
+[2026-07-12 16:36:42] user=bhawana action=LOGIN      file=-                    result=SUCCESS
+[2026-07-12 16:39:14] user=bhawana action=CREATE     file=bhawana.txt          result=SUCCESS
+[2026-07-12 16:41:11] user=bhawana action=WRITE      file=bhawana.txt          result=SUCCESS
+[2026-07-12 16:42:31] user=bhawana action=READ       file=bhawana.txt          result=SUCCESS
+[2026-07-12 16:46:10] user=bhawana action=CHMOD      file=bhawana.txt          result=SUCCESS
+[2026-07-12 16:48:40] user=bhawana action=ENCRYPT    file=bhawana.txt          result=SUCCESS
+[2026-07-12 16:50:28] user=bhawana action=DECRYPT    file=bhawana.txt          result=SUCCESS
+[2026-07-12 16:52:20] user=bhawana action=LOGOUT     file=-                    result=SUCCESS
