@@ -1,1 +1,20 @@
 [2026-07-13 12:39:48] SERVER STARTED on port 8080
+[2026-07-13 12:43:44] SERVER STARTED on port 8080
+[2026-07-13 12:50:29] CONNECTION from 127.0.0.1:56632 (socket 4)
+[2026-07-13 12:50:51] LOGIN SUCCESS user=bhawana (client slot 0)
+[2026-07-13 12:51:16] MSG user=bhawana text="Hello"
+[2026-07-13 12:52:27] CONNECTION from 127.0.0.1:35360 (socket 5)
+[2026-07-13 12:52:44] LOGIN SUCCESS user=sita (client slot 1)
+[2026-07-13 12:54:22] MSG user=sita text="Message delivery test."
+[2026-07-13 12:56:01] CONNECTION from 127.0.0.1:58218 (socket 6)
+[2026-07-13 12:56:22] LOGIN SUCCESS user=ram (client slot 2)
+[2026-07-13 12:57:20] MSG user=ram text="The chat server is working correctly."
+[2026-07-13 12:59:26] CONNECTION from 127.0.0.1:39962 (socket 7)
+[2026-07-13 12:59:49] LOGIN SUCCESS user=gita (client slot 3)
+[2026-07-13 13:00:50] MSG user=gita text="Hey i joined too."
+[2026-07-13 13:01:42] MSG user=bhawana text="Great! This is a successful communication test."
+[2026-07-13 13:02:06] MSG user=bhawana text="Good bye."
+[2026-07-13 13:03:53] QUIT user=bhawana
+[2026-07-13 13:08:39] QUIT user=gita
+[2026-07-13 13:09:07] QUIT user=sita
+[2026-07-13 13:09:36] QUIT user=ram
